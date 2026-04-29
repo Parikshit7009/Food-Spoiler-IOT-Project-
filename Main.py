@@ -1,8 +1,9 @@
 import time
-import sensors
-import display
-import logic
-import buzzer
+import FridgeGuard.Sensor as sensors
+import FridgeGuard.Display as display
+import FridgeGuard.config as config
+import FridgeGuard.Buzzer as buzzer
+import FridgeGuard.Logics as logic
 
 # Init
 oled = display.init_oled()
