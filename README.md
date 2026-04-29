@@ -1,4 +1,12 @@
 # Food-Spoiler-IOT-Project-
+## 🌐 Live Simulation
+
+You can view and test the project online using Wokwi:
+
+👉 https://wokwi.com/projects/460708586845941761
+
+
+
 🧊 FridgeGuard – Smart Food Spoilage Detection System
 📌 Overview
 
